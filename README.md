@@ -12,6 +12,7 @@
     
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=best0611)](https://github.com/best0611/velog-readme-stats)
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=co-dult&postId=default)](https://github.com/co-dult/github-readme-tistory-card)
 
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=co-dult)](https://co-dult.tistory.com/)
 
