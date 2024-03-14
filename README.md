@@ -33,11 +33,14 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
-    
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> 
+        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=githubk&logoColor=white"> 
+        <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-4A154B?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VS Code&logoColor=white"> 
     </div>
     <br>
 </div>
