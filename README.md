@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=githubk&logoColor=white"> 
         <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ IDEA-4A154B?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VS Code&logoColor=white"> 
+        <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> 
     </div>
     <br>
 </div>
