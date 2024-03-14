@@ -2,7 +2,7 @@
 ![Jekyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=best0611&include_all_commits=true&show_icons=true&theme=cobalt)
 
 
-## 🔨 Once I've used 🔨
+## 🔨 What I've used once
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
