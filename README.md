@@ -13,6 +13,6 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=best0611)](https://github.com/best0611/velog-readme-stats)
 
 
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=co-dult&theme=default)](https://co-dult.tistory.com/)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=코리니&theme=default)](https://co-dult.tistory.com/)
 
 </div><br>
